@@ -1,0 +1,14 @@
+Valor producto 
+Valor iva 
+Total 
+
+INICIO 
+
+ESCRIBA ("Cual es el valor del producto")
+LEA Valor del producto 
+ESCRIBA ("El valor del iva")
+LEA Valor del iva 
+Total= valor producto+ (valor producto*valor iva/100)
+ESCRIBA ("El total", es total)
+
+FIN 

@@ -1,0 +1,15 @@
+Numero1 
+Numero2 
+Resultado
+
+INICIO 
+
+ESCRIBA ("Hola, este es un programa para sumar")
+ESCRIBA ("Digite numero1")
+LEA Numero1 
+ESCRIBA ("Digite Numero2")
+LEA Numero2
+Resultado=Numero1+Numero2
+ESCRIBA ("Su resultado es: "), Resultado
+
+FIN     
